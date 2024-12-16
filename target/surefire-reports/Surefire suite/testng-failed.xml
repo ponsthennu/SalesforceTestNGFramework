@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Surefire suite]" verbose="0">
+  <test name="Surefire test(failed)">
+    <classes>
+      <class name="com.salesforce.tests.SalesforceLoginTest">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- com.salesforce.tests.SalesforceLoginTest -->
+      <class name="com.salesforce.tests.SalesforceUserMenuTest">
+        <methods>
+          <include name="TestCase05"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.salesforce.tests.SalesforceUserMenuTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->

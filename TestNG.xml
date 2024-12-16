@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation">
+
+<listeners>
+<listener class-name="com.salesforce.utilitypages.ExtentReportListener"></listener>
+</listeners>
+<!--  
+  <parameter name="username"  value="admin123@gmail.com"/>
+ <parameter name="password"  value="admin123"/>
+ <parameter name="invalidusername"  value="admin123"/>-->
+ 
+   <!--   <test name="Login">
+         <classes>
+             <class name="com.salesforce.tests.SalesforceLoginTest"/>
+             
+             
+         </classes>
+     </test>--> <!-- Test -->
+     <test name="Usermenu">
+         <classes>
+             
+             <class name="com.salesforce.tests.SalesforceUserMenuTest"/>
+             
+         </classes>
+     </test> <!-- Test -->
+</suite> <!-- Suite -->

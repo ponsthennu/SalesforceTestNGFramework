@@ -1,0 +1,14 @@
+com\salesforce\otherpages\SalesforceLeadsPage.class
+com\salesforce\othertests\SalesforceCreateAccountTest.class
+com\salesforce\otherpages\SalesforceCreateAccountPage.class
+com\salesforce\othertests\SalesforceContactsTest.class
+com\salesforce\othertests\SalesforceLeadsTest.class
+com\salesforce\pages\SalesforceLoginPage.class
+com\salesforce\pages\SalesforceUserMenuPage.class
+com\salesforce\tests\SalesforceLoginTest.class
+com\salesforce\tests\SalesforceUserMenuTest.class
+com\salesforce\otherpages\SalesforceCreateOptyPage.class
+com\salesforce\otherpages\SalesforceContactsPage.class
+com\salesforce\othertests\SalesforceRandomScenariosTest.class
+com\salesforce\otherpages\SalesforceRandomScenariosPage.class
+com\salesforce\othertests\SalesforceCreateOptyTest.class

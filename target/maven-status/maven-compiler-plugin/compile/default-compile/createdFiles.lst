@@ -1,0 +1,10 @@
+com\salesforce\utilitypages\JsonFileReader.class
+com\salesforce\utilitypages\Screenshot.class
+com\salesforce\basepages\BaseSalesforceTest.class
+com\salesforce\log4j2\JSErrorlog$1.class
+com\salesforce\utilitypages\PropertyFileReader.class
+com\salesforce\basepages\BaseSalesforcePage.class
+com\salesforce\log4j2\Log.class
+com\salesforce\utilitypages\ExcelFileReader.class
+com\salesforce\log4j2\JSErrorlog.class
+com\salesforce\utilitypages\ExtentReportListener.class
